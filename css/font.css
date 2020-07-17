@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+
+/* --- WEB FONT --- */
+@font-face {
+    font-family:scDream1, sans-serif;
+    src:url('../font/SCDream1.eot'); 
+    src:url('../fonts/SCDream1.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream1.woff') format(‘woff’), 
+        url('../fonts/SCDream1.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream2, sans-serif;
+   src:url('../font/SCDream2.eot'); 
+    src:url('../fonts/SCDream2.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream2.woff') format(‘woff’), 
+        url('../fonts/SCDream2.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream3, sans-serif;
+   src:url('../font/SCDream3.eot'); 
+    src:url('../fonts/SCDream3.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream3.woff') format(‘woff’), 
+        url('../fonts/SCDream3.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream4, sans-serif;
+   src:url('../font/SCDream4.eot'); 
+    src:url('../fonts/SCDream4.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream4.woff') format(‘woff’), 
+        url('../fonts/SCDream4.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream5, sans-serif;
+   src:url('../font/SCDream5.eot'); 
+    src:url('../fonts/SCDream5.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream5.woff') format(‘woff’), 
+        url('../fonts/SCDream5.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream6, sans-serif;
+   src:url('../font/SCDream6.eot'); 
+    src:url('../fonts/SCDream6.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream6.woff') format(‘woff’), 
+        url('../fonts/SCDream6.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream7, sans-serif;
+   src:url('../font/SCDream7.eot'); 
+    src:url('../fonts/SCDream7.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream7.woff') format(‘woff’), 
+        url('../fonts/SCDream7.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream8, sans-serif;
+   src:url('../font/SCDream8.eot'); 
+    src:url('../fonts/SCDream8.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream8.woff') format(‘woff’), 
+        url('../fonts/SCDream8.ttf') format('truetype');
+}
+@font-face {
+    font-family:scDream9, sans-serif;
+   src:url('../font/SCDream9.eot'); 
+    src:url('../fonts/SCDream9.eot?#iefix') format(‘embedded-opentype’), 
+        url('../fonts/SCDream9.woff') format(‘woff’), 
+        url('../fonts/SCDream9.ttf') format('truetype');
+}
